@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CipherMachine.cs" />
+    <Compile Include="EncryptFacade.cs" />
+    <Compile Include="FileReader.cs" />
+    <Compile Include="FileWrite.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
